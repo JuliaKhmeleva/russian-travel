@@ -4,22 +4,22 @@
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__main-conteiner/header__main-conteiner.css);
+@import url(../blocks/header/_main-conteiner/header_main-conteiner.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_on/header__lang-link_on.css);
 
 @import url(../blocks/lead/lead.css);
-@import url(../blocks/lead/__conteiner/lead__conteiner.css);
+@import url(../blocks/lead/_conteiner/lead_conteiner.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 
-@import url(../blocks/intro/__main-conteiner/intro__main-conteiner.css);
+@import url(../blocks/intro/_main-conteiner/intro_main-conteiner.css);
 @import url(../blocks/intro/intro.css);
-@import url(../blocks/intro/__conteiner/intro__conteiner.css);
+@import url(../blocks/intro/_conteiner/intro_conteiner.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
@@ -27,12 +27,12 @@
 @import url(../blocks/intro/__list-item/_number/intro__list-item_number.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/__main-conteiner/photo-grid__main-conteiner.css);
+@import url(../blocks/photo-grid/_main-conteiner/photo-grid_main-conteiner.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/photo-grid/__image/photo-grid__image.css);
 
 
-@import url(../blocks/places/__main-conteiner/places__main-conteiner.css);
+@import url(../blocks/places/_main-conteiner/places_main-conteiner.css);
 @import url(../blocks/places/place/place.css);
 @import url(../blocks/places/place/__title/place__title.css);
 @import url(../blocks/places/place/__website/place__website.css);
