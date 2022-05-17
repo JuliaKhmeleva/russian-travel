@@ -1,4 +1,4 @@
-.intro_main-conteiner {
+.intro {
     max-width: 984px;
     min-width: 320px;
     text-align: left;
@@ -6,19 +6,19 @@
 }
 
 @media screen and (min-width: 1280px) {
-    .intro_main-conteiner {
+    .intro {
         width: 984px;
     }
 }
 
 @media screen and (max-width: 1279px) {
-    .intro_main-conteiner {
+    .intro {
         width: 928px;
     }
 }
 
 @media screen and (max-width: 1023px) {
-    .intro_main-conteiner {
+    .intro {
         width: auto;
         padding-left: 24px;
         padding-right: 24px;
@@ -26,7 +26,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .intro_main-conteiner {
+    .intro {
         width: auto;
         padding-left: 16px;
         padding-right: 16px;

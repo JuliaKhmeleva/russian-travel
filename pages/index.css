@@ -45,7 +45,7 @@
 @import url(../blocks/places/place/_space/place_space.css);
 
 
-@import url(../blocks/cover/__main-conteiner/cover__main-conteiner.css);
+@import url(../blocks/cover/_main-conteiner/cover_main-conteiner.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__image/cover__image.css);
