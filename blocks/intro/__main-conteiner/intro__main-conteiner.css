@@ -1,7 +1,7 @@
 
 
 
-.intro_main-conteiner {
+.intro__main-conteiner {
     text-align: left;
     margin-top: 92px;
     
@@ -9,26 +9,26 @@
 }
 
 @media screen and (min-width: 1280px) {
-    .intro_main-conteiner {
+    .intro__main-conteiner {
         max-width: 690px;
     }
 }
 
 @media screen and (max-width: 1279px) {
-    .intro_main-conteiner {
+    .intro__main-conteiner {
         width: 690px;
     }
 }
 
 @media screen and (max-width: 1023px) {
-    .intro_main-conteiner {
+    .intro__main-conteiner {
         max-width: 720px;
         margin-top: 88px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .intro_main-conteiner {
+    .intro__main-conteiner {
         min-width: 288px;
         width: auto;
         margin-top: 64px;
