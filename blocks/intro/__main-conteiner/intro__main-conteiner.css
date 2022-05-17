@@ -1,0 +1,34 @@
+.intro__main-conteiner {
+    max-width: 984px;
+    min-width: 320px;
+    text-align: left;
+    margin: auto;
+}
+
+@media screen and (min-width: 1280px) {
+    .intro__main-conteiner {
+        width: 984px;
+    }
+}
+
+@media screen and (max-width: 1279px) {
+    .intro__main-conteiner {
+        width: 928px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .intro__main-conteiner {
+        width: auto;
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro__main-conteiner {
+        width: auto;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
