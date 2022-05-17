@@ -6,4 +6,6 @@
     -webkit-text-size-adjust: none;
     text-size-adjust: none;
     text-rendering: optimizeLegibility;
+    color: white;
+    background-color: #2A2C2F;
 }

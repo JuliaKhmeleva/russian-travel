@@ -5,6 +5,7 @@
     line-height: 1.2em;
     text-decoration: underline;
     margin-top: 12px;
+    color: white;
 }
 
 .place__link:hover {
