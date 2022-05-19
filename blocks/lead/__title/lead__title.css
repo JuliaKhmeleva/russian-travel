@@ -2,6 +2,8 @@
     font-size: 96px;
     line-height: 0.96em;
     font-weight: 900;
+    padding: 0;
+    margin: 0;
 }
 
 @media screen and (max-width: 767px) {

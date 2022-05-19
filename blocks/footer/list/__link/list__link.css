@@ -1,5 +1,5 @@
 @media screen and (min-width: 768px) {
-    .footer__link {
+    .list__link {
      font-size: 16px;
      line-height: 1.1em;
      margin-right: 18px;
@@ -8,7 +8,7 @@
  }
  
  @media screen and (max-width: 767px) {
-     .footer__link {
+     .list__link {
       font-size: 24px;
       line-height: 1em;
       text-align: left;
@@ -16,12 +16,16 @@
      }
   }
  
-  .footer__link:hover {
+  .list__link:hover {
       opacity: 80%;
   }
 
-  .footer__link {
+  .list__link {
       color: white;
       text-decoration: none;
+      padding: 0;
+      list-style-type: none;
   }
+
+
  

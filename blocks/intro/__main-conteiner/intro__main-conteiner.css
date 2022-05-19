@@ -29,7 +29,7 @@
 
 @media screen and (max-width: 767px) {
     .intro__main-conteiner {
-        min-width: 288px;
+        min-width: auto;
         width: auto;
         margin-top: 64px;
     }
