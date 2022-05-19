@@ -52,6 +52,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__list/footer__list.css);
 @import url(../blocks/footer/list/_link/list_link.css);
+@import url(../blocks/footer/list/_link-style/list_link-style.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
 
