@@ -12,7 +12,7 @@
     .photo-grid {
         width: auto;
         max-width: 1184px;
-        margin-top: 92px;
+        margin-top: 92px; /* не совсем понимаю как тут поступить, так как margin-top не могу удалить, условия прописала для разрешения до 1279 и от 1280, так как меняются gap, min-width, margin-left, margin-right */
         grid-template-rows: repeat(3, 1fr);
         grid-template-columns: repeat(4, 1fr);
         gap: 16px;
